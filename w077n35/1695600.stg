@@ -1,0 +1,6 @@
+OBJECT_BASE 1695600.btg
+OBJECT KPMZ.btg
+OBJECT_SHARED Models/Airport/windsock.xml -76.760105 35.809887 9.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.760487 35.803592 9.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -76.755409 35.817666 9.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -76.759468 35.811645 9.5 0.00
